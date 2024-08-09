@@ -60,7 +60,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Neethu_Muthu/NEETHU_PROTFOLIO_USING_REACT.git
+   git clone https://github.com/Neethu_Muthu/PROTFOLIO_USING_REACT.git
    ```
 
 2. Navigate to the project directory:
