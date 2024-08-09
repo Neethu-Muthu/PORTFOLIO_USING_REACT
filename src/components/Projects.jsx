@@ -90,7 +90,7 @@ function Projects() {
       title: 'Portfolio Website',
       image: PortfolioWebsite,
       description: 'My personal portfolio website showcasing my projects and skills.',
-      github: 'https://github.com/Neethu-Muthu/Portfolio-Website',
+      github: 'https://github.com/Neethu-Muthu/PORTFOLIO_USING_REACT',
       caption: 'A personal portfolio website showcasing projects and skills.',
     },
     {
