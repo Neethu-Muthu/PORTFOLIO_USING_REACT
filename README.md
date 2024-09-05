@@ -4,7 +4,7 @@
 
 Welcome to my portfolio! I am a student currently enrolled in a blockchain architect program, and this portfolio showcases my work, projects, and skills as I advance in my studies.
 
-Portfolio Website Link:  https://portfoliowebsite-rl1gl8sso-neethu-ms-projects.vercel.app/
+Portfolio Website Link:  https://portfolio-using-react-chi.vercel.app/
 
 ## About Me
 
